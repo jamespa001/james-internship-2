@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Summarist CI](https://github.com/jamespa001/james-internship2/actions/workflows/ci.yml/badge.svg)
 
-## Getting Started
+# Summarist
 
-First, run the development server:
+A modern book summary web application designed to deliver key insights, audio key points, and chapter summaries from popular non-fiction books.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Book Summaries & Audio Highlights**: Interactive player and reading interface for concise book insights.
+- **Subscription & Auth Interface**: Structured checkout workflow, user authentication, and profile state management.
+- **Responsive Web Design**: Clean, mobile-friendly interface built with modern React components and CSS styling.
+- **Automated CI**: GitHub Actions workflow verifying dependencies, linting, and build integrity on every push.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: Next.js / React, Redux Toolkit
+- **Styling**: Tailwind CSS / CSS Modules
+- **Authentication**: Firebase Auth
+- **CI/CD**: GitHub Actions
 
-## Learn More
+## Getting Started Locally
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/jamespa001/james-internship-2.git](https://github.com/jamespa001/james-internship-2.git)
+   cd summarist
+   ```
