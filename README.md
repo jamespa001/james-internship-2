@@ -1,4 +1,4 @@
-![Summarist CI](https://github.com/jamespa001/james-internship2/actions/workflows/ci.yml/badge.svg)
+![Summarist CI](https://github.com/jamespa001/james-internship-2/actions/workflows/ci.yml/badge.svg)
 
 # Summarist
 
